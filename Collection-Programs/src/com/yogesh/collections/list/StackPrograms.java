@@ -10,7 +10,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author Administrator
+ * @author Yogesh
  */
 public class StackPrograms {
     Stack<String> stack = new Stack<String>();  
