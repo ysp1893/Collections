@@ -29,6 +29,7 @@ public class ArrayListProgram {
         arrList.add("Mitansh");
         arrList.add("Yogesh");
         arrList.add("Jagdish");
+        arrList.add("Mitansh");
         System.out.println("Before delete any object from arrList variable");
         Iterator itr = arrList.iterator();
         while(itr.hasNext()){
